@@ -75,6 +75,13 @@ Referenced Libraries
 + [CommonLibrary.NET](http://commonlibrarynet.codeplex.com/)
 + [NSubstitute](http://nsubstitute.github.io/)
 
+
+
+Other
+=====================
++[Camera Vision - video surveillance on C#}(http://www.codeproject.com/Articles/15537/Camera-Vision-video-surveillance-on-C)
+
+
 Copyright and license
 =====================
 
