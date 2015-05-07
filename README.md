@@ -79,7 +79,7 @@ Referenced Libraries
 
 Other
 =====================
-+[Camera Vision - video surveillance on C#}(http://www.codeproject.com/Articles/15537/Camera-Vision-video-surveillance-on-C)
++[Camera Vision - video surveillance on C#](http://www.codeproject.com/Articles/15537/Camera-Vision-video-surveillance-on-C)
 
 
 Copyright and license
